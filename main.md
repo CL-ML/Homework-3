@@ -7,7 +7,7 @@
 # 2. Proactive Market Marker mechanisms
 
 
-In a pair $X$-$Y$, X is called trhe *base* token and Y the *quote* token. Let $B$ and $Q$ be the amounts of base and quote tokens in the pool, and $B_{0}$ and $Q_{O}$ be the amounts that had been initially deposited in the pool by the liquidity providers. The current amount of both token in the pool are different than the initial amounts that had been deposited by liquidity providers, as the number of each token chenges each time a trader uses the pool to execute a swap. $B_{0}$ and $Q_{0}$ are called the *regression targets$*, i.e. the amounts that the pool is trying to remain as close as possible to. 
+Let $B$ and $Q$ be the amounts of base and quote tokens in the pool (in a pair X-Y, X is called the *base* token and Y the *quote* token), and $B_{0}$ and $Q_{O}$ be the amounts that had been initially deposited in the pool by the liquidity providers. The current amount of both token in the pool are different than the initial amounts that had been deposited by liquidity providers, as the number of each token chenges each time a trader uses the pool to execute a swap. $B_{0}$ and $Q_{0}$ are called the *regression targets$*, i.e. the amounts that the pool is trying to remain as close as possible to. 
 
 The aim of a proactive market maket such as DODODex is to keep the actual number of tokens ($B$ and $Q$) as close as possible to the initial amounts ($B_{0}$ and $Q_{0}$), in order to avoid impermanent loss. To do so, it is necessary to incentivize arbitragers to make trades that push the number of tokens in the pool toward the initial amounts deposited. 
 
@@ -32,6 +32,7 @@ Finally, note that the term $k \in [0,1]$, that is adjustable, controls the impa
 Big advantages compared to AMM : 
 - Less slippage i.e. better liquidity, as $k$ is small (a pool with $k=1$ has exactly the same slippage than an AMM)
 - No impermanent lost 
+- Possibility to deposit only one type of token
 
 But : 
 - Price setting mechanism relies on an oracle, which introduces another risk, which is an attack (or simply a bug) in the oracle price setting, whcih can lead to huge losses of liquidity providers. 
