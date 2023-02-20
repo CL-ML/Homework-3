@@ -34,17 +34,17 @@ While the protocol is still in its early stages, there are several metrics that 
 
 DODO has an active and growing community of users and developers. The DODO protocol has been well received in the decentralized finance (DeFi) community, and the team has been actively engaging with users and developers to improve the protocol. Some of the community metrics for DODO include:
 
-    +Over 28,000 followers on Twitter
-    +Over 10,000 members on Telegram
-    +Over 1,000 followers on Medium
+   + Over 28,000 followers on Twitter
+   + Over 10,000 members on Telegram
+   + Over 1,000 followers on Medium
 
 ###### Financial Metrics:
 
 DODO is a decentralized protocol, and therefore does not have traditional financial metrics like revenue or profit. However, there are several metrics that can be used to evaluate the company's financial performance, including:
 
-    +Market Cap: According to CoinGecko, as of February 2023, DODO's market capitalization is over $300 million USD.
-    +Trading Volume: According to DODO's own data, the platform's trading volume has been steadily increasing, with over $300 million USD in trading volume in the last 24 hours as of February 2023.
-    +Liquidity: DODO's liquidity provision mechanism is one of its main features, and as of February 2023, DODO's liquidity pools have a total value locked (TVL) of over $1 billion USD, according to DeFi Pulse.
+   + Market Cap: According to CoinGecko, as of February 2023, DODO's market capitalization is over $300 million USD.
+   + Trading Volume: According to DODO's own data, the platform's trading volume has been steadily increasing, with over $300 million USD in trading volume in the last 24 hours as of February 2023.
+   + Liquidity: DODO's liquidity provision mechanism is one of its main features, and as of February 2023, DODO's liquidity pools have a total value locked (TVL) of over $1 billion USD, according to DeFi Pulse.
 
 Overall, DODO has shown strong community engagement and has established itself as a promising decentralized exchange protocol in the DeFi space. While it is still a relatively new protocol, DODO's financial metrics demonstrate its potential to compete with other leading DEXs in the industry.
 
