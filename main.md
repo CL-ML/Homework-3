@@ -4,7 +4,8 @@
 
 # 1. Introduce the protocol, their product offering and make an evaluation of their company (Community and Financial metrics)
 
-The Protocol: 
+
+textbf{The Protocol}: 
 
 # 2. Proactive Market Marker mechanisms
 
