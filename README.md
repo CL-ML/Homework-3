@@ -1,2 +1,2 @@
 # Homework-3
-Collaborative présentation paper of DODODex
+Collaborative presentation paper of DODODex
