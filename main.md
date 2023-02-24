@@ -71,12 +71,15 @@ Finally, note that the term $k \in [0,1]$, that is adjustable, controls the impa
 
 # 3. Describe a few use cases where this AMM model is useful or optionally, if you have the expertise, some suitable trading strategies
 
+There are different use cases with this model. The most obvious one is a classical AMM, with $k < 1$, that enables the price to adapt dynamically to trades, while proposing lower slippage than classical constant product AMM, and also limit impermanent loss for liquidity providers. This kind of pool is called DODO classic pool. 
+On the other hand, the way PMM work enable to create pools with any number of tokens of both base and quote, so that this can be used by new projects to build what is called a DODO vending machine, which means a pool with 100% token from the project, that enables projects to raise fund very easily. 
+Furthermore, this project enables to build very customisable liquidity pools, and then gives to market makers the ability to create their own pool, and to adjust parameter $k$ according to their strategy, modifying  very easily the level of liquidity (i.e. slippage) they propose to traders. 
+Finally, this model can even recreate more classical pools, such as constant product classical AMM (with $k=1$) or curve-like stablecoins pools (with k very close to 0). 
+
+
 # 4. Conclude with some thoughts on your experience of collaborating on Github (what works well, challenges, learnings)
 
-Big advantages compared to AMM : 
-- Less slippage i.e. better liquidity, as $k$ is small (a pool with $k=1$ has exactly the same slippage than an AMM)
-- No impermanent lost 
-- Possibility to deposit only one type of token
+To conclude, DODODex, and PMM in general enable to create fully customizable liquidity pool, that can be tuned either to create pools very similar to existing ones, but also to create more elaborates pools that solve (partially) both the problems of slippage for traders, and impermanent loss for liquidity providers. Moreover, the flexible design of PMM also enables anyone to deposit any amount of each token, enabling people having only one type of token to stake them, whereas classical AMM requires deposit of both types of token in some proportions. 
+This type of market maker seems to be more adapted than classical AMM for any situation, however we should not forget that it implies an oracle, which is a new attack vector, and increases the risk for liquidity providers. 
 
-But : 
-- Price setting mechanism relies on an oracle, which introduces another risk, which is an attack (or simply a bug) in the oracle price setting, whcih can lead to huge losses of liquidity providers. 
+
