@@ -6,25 +6,18 @@
 
 ## 1.Introduction:
 DODODex is a decentralized exchange (DEX) that uses a type of automated market maker (AMM) called Proactive AMM (pAMM) to facilitate trades.
-Unlike traditional centralized exchanges that use an order book to match buyers and sellers, DEXs use AMMs to determine the price of assets and execute trades. AMMs use algorithms to set the price based on the ratio of assets in a liquidity pool.pAMMs take this a step further by using real-time market data to adjust the price more proactively. They dynamically change the pool weights based on market conditions to provide better pricing accuracy and liquidity. This helps prevent slippage and reduces the impact of large trades on the market.
-Proactive Automated Market Makers (pAMMs) are a type of automated market maker (AMM) that uses real-time market data to adjust the pricing and liquidity of assets. pAMMs dynamically change the weights of assets in their liquidity pools based on market conditions, which provides more accurate pricing and reduces the impact of large trades on the market.
-The use of pAMMs can provide more accurate pricing and reduce the impact of large trades on the market. This makes them a popular choice for decentralized exchanges (DEXs) that want to provide better liquidity and pricing for their users. 
+Unlike traditional centralized exchanges that use an order book to match buyers and sellers, DEXs use AMMs to determine the price of assets and execute trades. AMMs use algorithms to set the price based on the ratio of assets in a liquidity pool.pAMMs take this a step further by using real-time market data to adjust the price more proactively. They dynamically change the pool weights based on market conditions to provide better pricing accuracy and liquidity. The use of pAMMs can provide more accurate pricing and reduce the impact of large trades on the market. This makes them a popular choice for decentralized exchanges (DEXs) that want to provide better liquidity and pricing for their users. 
 
-In summary, DODODex uses pAMMs to provide a more efficient and accurate trading experience for its users. The DODO decentralized exchange is one example of a DEX that uses pAMMs to provide more efficient trading for its users.
 
 ## 2.Protocol: 
-The DODO protocol uses pAMMs to optimize liquidity and reduce slippage. By proactively adjusting the weights of assets in the liquidity pools, DODO ensures that users can trade at prices that accurately reflect the current market conditions, even during periods of high volatility.
-In addition, the DODO protocol uses a unique price discovery algorithm called "CrowdPooling" to set the initial price of assets in its liquidity pools. This algorithm combines the principles of an initial coin offering (ICO) with an AMM, allowing users to pool their funds together and determine the initial price of the asset.
+The DODO protocol uses a unique price discovery algorithm called "CrowdPooling" to set the initial price of assets in its liquidity pools. This algorithm combines the principles of an initial coin offering (ICO) with an AMM, allowing users to pool their funds together and determine the initial price of the asset.
 The DODO protocol also features a number of other tools and features to enhance the trading experience for users, such as flash loans, limit orders, and stop-loss orders.
 
-Overall, the DODO protocol's use of pAMMs and innovative price discovery algorithm make it a promising decentralized exchange for users looking for efficient and reliable trading on the blockchain.
 
 ## 3.Product offering:
 DODO offers a range of features and tools to enhance the trading experience for users.
 One of the main features of DODO is its liquidity provision mechanism, which is based on pAMMs.
-DODO also offers a unique price discovery mechanism called "CrowdPooling", which combines the principles of an initial coin offering (ICO) with an AMM. This allows users to pool their funds together and determine the initial price of the asset.
 In addition to its liquidity provision mechanism, DODO also offers a range of other features to enhance the trading experience for users. These include flash loans, which allow users to borrow funds without collateral for a very short period of time, limit orders, which allow users to set specific prices at which they want to buy or sell assets, and stop-loss orders, which allow users to limit their losses in case of adverse price movements.
-Overall, DODO's product offering is designed to provide users with efficient, cost-effective, and reliable trading on the blockchain, with features and tools that cater to the needs of both retail and institutional traders.
 
 ## 4.Evaluation:
 
@@ -40,13 +33,13 @@ DODO has an active and growing community of users and developers. The DODO proto
 
 ###### Financial Metrics:
 
-DODO is a decentralized protocol, and therefore does not have traditional financial metrics like revenue or profit. However, there are several metrics that can be used to evaluate the company's financial performance, including:
+There are several metrics that can be used to evaluate the company's financial performance, including（February 2023）:
 
-   + Market Cap: According to CoinGecko, as of February 2023, DODO's market capitalization is over $300 million USD.
-   + Trading Volume: According to DODO's own data, the platform's trading volume has been steadily increasing, with over $300 million USD in trading volume in the last 24 hours as of February 2023.
-   + Liquidity: DODO's liquidity provision mechanism is one of its main features, and as of February 2023, DODO's liquidity pools have a total value locked (TVL) of over $1 billion USD, according to DeFi Pulse.
+   + Market Cap: DODO's market capitalization is over $300 million USD.
+   + Trading Volume: the platform's trading volume is over $300 million USD.
+   + Liquidity: DODO's liquidity provision mechanism is one of its main features, DODO's liquidity pools have a total value locked (TVL) of over $1 billion USD.
 
-Overall, DODO has shown strong community engagement and has established itself as a promising decentralized exchange protocol in the DeFi space. While it is still a relatively new protocol, DODO's financial metrics demonstrate its potential to compete with other leading DEXs in the industry.
+DODO has shown strong community engagement and has established itself as a promising decentralized exchange protocol in the DeFi space. While it is still a relatively new protocol, DODO's financial metrics demonstrate its potential to compete with other leading DEXs in the industry.
 
 # 2. Proactive Market Marker mechanisms
 
